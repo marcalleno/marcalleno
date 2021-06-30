@@ -12,8 +12,6 @@
 - 👨‍💻 All of my projects are available at [marcalleno.com][website]
 - 📝 I regularly write articles on [blog.marcalleno.com][blog]
 
-<br />
-
 ### My Projects
 
 - 💠 (Jun 2021) Create simple city tours website using React JS.
@@ -25,8 +23,6 @@
 - 💠 (Jan 2021) Create furniture e-commerce in Web using Javascript, Tailwind CSS, Webpack named [LuxSpace](https://marcel-luxspace.netlify.app).
 - 💠 (Aug 2020) Create movie tickets online booking apps in Android using Kotlin named Cinema Point.
 - 💠 (Aug 2020) Create online food delivery apps in Android using Kotlin named Food City.
-
-<br />
 
 ### My Working Experience
 
